@@ -8,7 +8,7 @@ permalink: /support/
 Resurface is a private voice-notes app: speak a thought, and it is saved,
 transcribed, titled, and connected to related notes — entirely on your iPhone.
 
-**Contact: calin.grecu@gmail.com** — include the app version from
+**Contact: info@resurfacenotes.com** — include the app version from
 Settings (the line at the bottom) if you can.
 
 ## Requirements

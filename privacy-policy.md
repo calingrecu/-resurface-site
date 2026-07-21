@@ -7,9 +7,9 @@ permalink: /privacy-policy/
 
 **Effective date: 2026-07-20**
 
-Resurface is a voice-notes app made by Calin Grecu. This policy is short
-because the honest answer is short: **Resurface does not collect, transmit, or
-share any data. Everything stays on your iPhone.**
+Resurface is a voice-notes app for iPhone. This policy is short because the
+honest answer is short: **Resurface does not collect, transmit, or share any
+data. Everything stays on your iPhone.**
 
 ## What we collect
 
@@ -69,4 +69,4 @@ the same thing.
 
 ## Contact
 
-Questions: **calin.grecu@gmail.com**
+Questions: **info@resurfacenotes.com**
