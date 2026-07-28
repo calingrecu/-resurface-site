@@ -2,10 +2,9 @@
 title: Privacy Policy
 permalink: /privacy-policy/
 ---
-
 # Resurface — Privacy Policy
 
-**Effective date: 2026-07-20**
+**Effective date: 2026-07-26**
 
 Resurface is a voice-notes app for iPhone. This policy is short because the
 honest answer is short: **Resurface does not collect, transmit, or share any
@@ -22,8 +21,12 @@ to anyone else.
 
 - **Your notes** (transcripts, titles, tags, and the app's AI-derived
   organization) are stored only on your device.
-- **Voice recordings** are processed on your device and deleted once the
-  transcript is safely saved. Audio is never transmitted anywhere.
+- **Voice recordings** are processed on your device and, by default, deleted
+  once the transcript is safely saved — unless you turn on "Keep recordings
+  after transcription" in Settings, in which case recordings stay on your
+  device until you delete them, delete their notes, or turn the setting back
+  off (which offers to delete the retained recordings right then). Audio is
+  never transmitted anywhere.
 - **Transcription** uses Apple's on-device speech recognition. Your audio does
   not leave the device for transcription.
 - **AI features** (titles, insights, questions and answers) run on Apple
@@ -51,9 +54,11 @@ it via the iOS share sheet. Nothing is ever sent automatically.
 
 ## Deleting your data
 
-Delete any note in the app, or delete the app to remove everything it stored
-on the device. There is nothing to delete anywhere else, because nothing ever
-left your iPhone.
+Delete any note in the app, or use Settings → "Delete All Local Data" to
+remove everything at once — notes, recordings, AI-derived data, logs, and
+pending or delivered reminder notifications — in a single step. You can also
+delete the app to remove everything it stored on the device. There is
+nothing to delete anywhere else, because nothing ever left your iPhone.
 
 ## Children
 
