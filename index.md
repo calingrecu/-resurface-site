@@ -1,12 +1,12 @@
 ---
-title: Resurface
+title: Passing Thoughts
 ---
 
-# Resurface
+# Passing Thoughts
 
 **Private voice notes for iPhone.**
 
-Speak a thought and Resurface saves it instantly, transcribes it, titles it,
+Speak a thought and Passing Thoughts saves it instantly, transcribes it, titles it,
 and quietly connects it to the notes it belongs with — entirely on your
 iPhone. No account, no cloud, no tracking.
 

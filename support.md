@@ -3,12 +3,12 @@ title: Support
 permalink: /support/
 ---
 
-# Resurface — Support
+# Passing Thoughts — Support
 
-Resurface is a private voice-notes app: speak a thought, and it is saved,
+Passing Thoughts is a private voice-notes app: speak a thought, and it is saved,
 transcribed, titled, and connected to related notes — entirely on your iPhone.
 
-**Contact: info@resurfacenotes.com** — include the app version from
+**Contact: info@passingthoughtsapp.com** — include the app version from
 Settings (the line at the bottom) if you can.
 
 ## Requirements
@@ -30,7 +30,7 @@ on-device model is ready, still downloading, or needs Apple Intelligence
 turned on in iOS Settings.
 
 **The transcript looks different from what I said.**
-Resurface shows a version cleaned for readability. Tap **"view original"** on
+Passing Thoughts shows a version cleaned for readability. Tap **"view original"** on
 the note to see the exact raw transcript. Editing the note always starts from
 the text you see.
 
@@ -45,12 +45,12 @@ an insight to stay exactly as it is, **pin it** — pinned insights never change
 on their own.
 
 **Ask said it couldn't answer, but I think the answer is in my notes.**
-Resurface only answers when it can ground the answer in your notes, and it
+Passing Thoughts only answers when it can ground the answer in your notes, and it
 declines rather than guesses. Try rephrasing with the words your note actually
 uses.
 
 **Where do reminders go?**
-Into a "Resurface" list in your own Apple Reminders app, only when you ask for
+Into a "Passing Thoughts" list in your own Apple Reminders app, only when you ask for
 one.
 
 **How do I delete my data?**
