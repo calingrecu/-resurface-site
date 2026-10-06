@@ -29,7 +29,7 @@ to anyone else.
   never transmitted anywhere.
 - **Transcription** uses Apple's on-device speech recognition. Your audio does
   not leave the device for transcription.
-- **AI features** (titles, insights, questions and answers) run on Apple
+- **AI features** (titles, review of open items, and Ask) run on Apple
   Intelligence, on-device. Your notes are never sent to a cloud AI service.
 - Like most iOS apps, Passing Thoughts's data is included in your device backups
   (iCloud or computer) according to your iOS backup settings. That is Apple's

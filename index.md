@@ -7,8 +7,7 @@ title: Passing Thoughts
 **Private voice notes for iPhone.**
 
 Speak a thought and Passing Thoughts saves it instantly, transcribes it, titles it,
-and quietly connects it to the notes it belongs with — entirely on your
-iPhone. No account, no cloud, no tracking.
+and finds it again when you ask — entirely on your iPhone. No account, no cloud, no tracking.
 
 Everything stays on your iPhone. Transcription, search, and all AI reasoning
 run on-device — your notes are never sent anywhere.
